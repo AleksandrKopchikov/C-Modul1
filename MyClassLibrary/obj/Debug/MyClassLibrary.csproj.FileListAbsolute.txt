@@ -1,0 +1,5 @@
+C:\Users\Sk\source\repos\Csharp1\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\Sk\source\repos\Csharp1\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\Sk\source\repos\Csharp1\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\Csharp1\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\Sk\source\repos\Csharp1\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
